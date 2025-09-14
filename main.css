@@ -1,0 +1,23 @@
+html {
+            font-size: 22px
+        }
+        body {
+            background-color: #333;
+            color: rgb(255, 255, 255);
+        }
+        a{
+            color:aliceblue;
+        }
+        a:visited{
+            color:lightgrey;
+        }
+        a:hover,a:active{
+            color:#eee;
+        }
+
+        table, tr, th, td, caption{
+            border: 1px solid #eee;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            border-collapse:collapse;
+            padding: 0.5rem;
+        }
